@@ -1,4 +1,5 @@
-# Type_Function_Python
+# Type-checker-Function-in-Python
+
 This is simple type function based on Error Handling in Python. I have just added few lines of code to find type of any data without using any inbuilt function.
 
 ## Requirements
